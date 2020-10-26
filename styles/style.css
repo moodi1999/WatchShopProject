@@ -2953,18 +2953,6 @@ input:focus {
     }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    .header-sticky.sticky-bar.sticky {
-        padding: 22px 0px
-    }
-}
-
-@media (max-width: 575px) {
-    .header-sticky.sticky-bar.sticky .header-right {
-        display: none
-    }
-}
-
 .mobile_menu {
     position: absolute;
     right: 0px;
