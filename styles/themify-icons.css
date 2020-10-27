@@ -1,7 +1,7 @@
 @font-face {
     font-family: themify;
-    src: url(../fonts/themify.eot?-fvbane);
-    src: url(../fonts/themify.eot?#iefix-fvbane) format('embedded-opentype'), url(../fonts/themify.woff?-fvbane) format('woff'), url(../fonts/themify.ttf?-fvbane) format('truetype'), url(../fonts/themify.svg?-fvbane#themify) format('svg');
+    src: url(../res/fonts/themify.eot?-fvbane);
+    src: url(../res/fonts/themify.eot?#iefix-fvbane) format('embedded-opentype'), url(../res/fonts/themify.woff?-fvbane) format('woff'), url(../res/fonts/themify.ttf?-fvbane) format('truetype'), url(../res/fonts/themify.svg?-fvbane#themify) format('svg');
     font-weight: 400;
     font-style: normal
 }
